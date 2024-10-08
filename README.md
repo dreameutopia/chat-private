@@ -1,13 +1,25 @@
 ## 使用教程
 ### 服务端
 1. 打开ServerControlPanel，填入数据，第一个和最后两个可以不填，为初始默认存放位置，其他数据可以自行修改，默认打开本地数据库3306端口，itcast数据库，基于druid线程池
+
+
    ![image](https://github.com/user-attachments/assets/270b2d65-c57a-4e62-acc9-4459ee907284)
+
+
+
+   
 2. 运行cn.dreameutopia.server包下server即可
 
 ### 客户端
 1. 打开configure，填入数据
+
+
    ![image](https://github.com/user-attachments/assets/b4896327-b21c-472c-bd14-1e6bde2d08c8)
-2. 运行cn.dreameutopia.ui.ChatEntryForm包下的app即可
+
+
+
+   
+3. 运行cn.dreameutopia.ui.ChatEntryForm包下的app即可
 
 ## 界面展示
 1. 登录界面
