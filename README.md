@@ -6,8 +6,6 @@
    ![image](https://github.com/user-attachments/assets/270b2d65-c57a-4e62-acc9-4459ee907284)
 
 
-
-   
 2. 运行cn.dreameutopia.server包下server即可
 
 ### 客户端
@@ -23,24 +21,52 @@
 
 ## 界面展示
 1. 登录界面
+
+
+
    ![image](https://github.com/user-attachments/assets/18dd7d90-1b14-4560-9a84-9a3bf397ee13)
 
+   
+
 2. 注册界面
+
+   
    ![image](https://github.com/user-attachments/assets/4f2c3bd3-ce4b-45a4-b7ba-ba864f4db34d)
 
+
+   
+
 3. 修改密码
+
+
    ![image](https://github.com/user-attachments/assets/a5f83f9a-bb3c-45a6-800a-bddddb08bc3a)
+
+   
    
 4. 群聊界面
+
+
    ![image](https://github.com/user-attachments/assets/8e666599-c8ab-4444-97ba-026d09596c24)
 
+   
+
 5. 私聊界面
+
+
    ![image](https://github.com/user-attachments/assets/2a4e6983-5ffd-4805-aca6-a8112e7d6182)
 
-7. 完善个人信息界面
+   
+
+6. 完善个人信息界面
+
+
    ![image](https://github.com/user-attachments/assets/449cef01-d3e9-47d0-9551-8230fdd96b52)
 
-8. 查看对方信息界面
+   
+
+7. 查看对方信息界面
+
+
   ![image](https://github.com/user-attachments/assets/35e376bc-59a2-4a6c-a13e-a2cfc5331c66)
 
 
